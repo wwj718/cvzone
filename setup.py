@@ -11,7 +11,6 @@ setup(
     url='https://github.com/cvzone/cvzone.git',
     keywords=['ComputerVision', 'HandTracking', 'FaceTracking', 'PoseEstimation'],
     install_requires=[
-        'opencv-python',
         'numpy'
     ],
     classifiers=[
